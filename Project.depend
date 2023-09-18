@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1695021000 source:d:\ccp\project\src\queue.cpp
+	<iostream>
+
+1695026037 source:d:\ccp\project\main.cpp
+	<iostream>
+	<DS.h>
+	"conio2.h"
+
+1694960110 d:\ccp\project\include\queue.h
+	<iostream>
+
+1694955603 d:\ccp\project\include\stack.h
+	<iostream>
+
+1694955500 source:d:\ccp\project\src\stack.cpp
+	"Stack.h"
+
+1694955976 source:d:\ccp\project\src\tree.cpp
+	"Tree.h"
+
+1695018782 d:\ccp\project\include\tree.h
+	<bits/stdc++.h>
+	"conio2.h"
+
+1694957873 source:d:\ccp\project\src\linkedlist.cpp
+	"LinkedList.h"
+
+1694960636 d:\ccp\project\include\linkedlist.h
+	<bits/stdc++.h>
+
+1677915692 d:\ccp\project\conio2.h
+	<conio.h>
+	<windows.h>
+
+1677915692 source:d:\ccp\project\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1695026594 d:\ccp\project\include\ds.h
+	<bits/stdc++.h>
+	"conio2.h"
+	<Stack.h>
+	<Queue.h>
+	<LinkedList.h>
+	<Tree.h>
+	<Array.h>
+	<Str.h>
+	<Graph.h>
+
+1677915692 d:\ccp\project\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1694959723 source:d:\ccp\project\src\ds.cpp
+	"DS.h"
+
+1695020627 d:\ccp\project\include\string.h
+
+1695026425 d:\ccp\project\include\array.h
+	<bits/stdc++.h>
+
+1695020219 source:d:\ccp\project\src\string.cpp
+	<iostream>
+	"String.h"
+
+1695019805 source:d:\ccp\project\src\array.cpp
+	"Array.h"
+
+1695026432 d:\ccp\project\include\str.h
+	<bits/stdc++.h>
+
+1695021060 source:d:\ccp\project\src\str.cpp
+	"Str.h"
+
+1695024566 d:\ccp\project\include\graph.h
+	<bits/stdc++.h>
+
+1695023389 source:d:\ccp\project\src\graph.cpp
+	"Graph.h"
+
